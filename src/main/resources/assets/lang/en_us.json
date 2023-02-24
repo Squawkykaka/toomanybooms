@@ -1,0 +1,10 @@
+{
+  "itemgroup.toomanybooms": "Too Many Explosions",
+
+  "item.toomanybooms.rubidium": "Rubidium",
+  "item.toomanybooms.raw_rubidium": "Raw Rubidium",
+
+  "block.toomanybooms.rubidium_ore": "Rubidium Ore",
+  "block.toomanybooms.deepslate_rubidium_ore": "Deepslate Rubidium Ore",
+  "block.toomanybooms.rubidium_block": "Rubidium Block"
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "toomanybooms",
+  "version": "${version}",
+  "name": "Toomanybooms",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/toomanybooms/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "me.squawkykaka.toomanybooms.client.ToomanyboomsClient"
+    ],
+    "main": [
+      "me.squawkykaka.toomanybooms.Toomanybooms"
+    ]
+  },
+  "mixins": [
+    "toomanybooms.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.15",
+    "fabric": "*",
+    "minecraft": "1.19.3"
+  }
+}
